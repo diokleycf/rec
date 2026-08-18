@@ -1,3 +1,13 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "key_hash": "d557b11cf11e51175527a3f23ef7d27b7bb55f384dc7f4c932114e10389087f7",
+      "key_hint": "G63T-****-****-FY4E",
+      "duration_label": "15 dias",
+      "created_at": "2026-08-18T19:11:02.231367",
+      "expires_at": "2026-09-02T19:11:02.231367",
+      "revoked": false,
+      "notes": null
+    }
+  ]
 }
