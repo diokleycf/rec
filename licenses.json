@@ -6,7 +6,7 @@
       "duration_label": "15 dias",
       "created_at": "2026-08-18T19:11:02.231367",
       "expires_at": "2026-09-02T19:11:02.231367",
-      "revoked": false,
+      "revoked": true,
       "notes": null
     }
   ]
