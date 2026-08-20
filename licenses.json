@@ -1,3 +1,13 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "key_hash": "6090bed2bef20291c219ac920a6596b51e5c76ef15fecfa14e917ba9b658f885",
+      "key_hint": "FYVQ-****-****-82VU",
+      "duration_label": "15 dias",
+      "created_at": "2026-08-20T16:05:58.056522",
+      "expires_at": "2026-09-04T16:05:58.056522",
+      "revoked": false,
+      "notes": "TESTE"
+    }
+  ]
 }
